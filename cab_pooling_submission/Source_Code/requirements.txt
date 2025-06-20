@@ -1,0 +1,2 @@
+PyQt5==5.15.9
+python-Levenshtein==0.23.0 
