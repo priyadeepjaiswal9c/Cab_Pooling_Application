@@ -122,7 +122,3 @@ cab_pooling/
 ## Contributing
 
 This project was developed as part of the CSE Lab course at IIT Patna.
-
-## License
-
-This project is licensed under the MIT License. 
